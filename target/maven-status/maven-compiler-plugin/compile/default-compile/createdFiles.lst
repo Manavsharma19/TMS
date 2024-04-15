@@ -1,0 +1,12 @@
+org/acme/schooltimetabling/domain/TimeTable.class
+org/acme/schooltimetabling/persistence/LessonRepository.class
+org/acme/schooltimetabling/domain/Room.class
+org/acme/schooltimetabling/TimeTableSpringBootApp.class
+org/acme/schooltimetabling/TimeTableSpringBootApp$DemoData.class
+org/acme/schooltimetabling/persistence/RoomRepository.class
+org/acme/schooltimetabling/domain/Timeslot.class
+org/acme/schooltimetabling/solver/TimeTableConstraintProvider.class
+org/acme/schooltimetabling/persistence/TimeTableRepository.class
+org/acme/schooltimetabling/domain/Lesson.class
+org/acme/schooltimetabling/rest/TimeTableController.class
+org/acme/schooltimetabling/persistence/TimeslotRepository.class

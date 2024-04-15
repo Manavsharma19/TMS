@@ -1,0 +1,3 @@
+org/acme/schooltimetabling/solver/TimeTableBenchmarkTest.class
+org/acme/schooltimetabling/rest/TimeTableControllerTest.class
+org/acme/schooltimetabling/solver/TimeTableConstraintProviderTest.class
